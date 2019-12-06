@@ -59,7 +59,8 @@ You will need the following items:
     
     PRODUCT ID: 4200
 
-.. container:: clearer
+.. raw:: html
+  <p>
 
 .. container:: twocol
 
