@@ -65,6 +65,7 @@ You will need the following items:
 |
 |
 |
+|
 
 .. container:: twocol
 
@@ -84,6 +85,15 @@ You will need the following items:
 
     So you can move your CircuitPython code onto the PyBadge.
 
+
+|
+|
+|
+|
+|
+|
+|
+
 You might also want:
 
 .. container:: twocol
@@ -102,8 +112,9 @@ You might also want:
     
     PRODUCT ID: 3898
 
-    So that you can play the game without having it attached to a computer.
+    So that you can play the game without having it attached to a computer with a USB cable.
 
+|
 |
 |
 |
@@ -126,10 +137,10 @@ You might also want:
     `Mini Oval Speaker - 8 Ohm 1 Watt <https://www.adafruit.com/product/4148>`_
     
     PRODUCT ID: 3923
-    Mini Oval Speaker - 8 Ohm 1 Watt
 
     If you want lots of sound. Be warned, the built in speaker is actually pretty loud.
 
+|
 |
 |
 |
