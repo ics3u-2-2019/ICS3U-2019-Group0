@@ -36,10 +36,14 @@ Space Aliens - CircuitPython Game
 
 In this project we will be making an old school style video game for the PyBadge. We will be using CircuitPython with the stage library, to create a Space Invaders like game.
 
+The stage library makes it easy to make classic video games, with access to backgrounds, sound, sprites and collision detection. The game will also work on other variants of hareware that runs CircuitPython and has a screen, like the PyGames and the PyEdge Badge.
+
 .. toctree::
    :maxdepth: 2
    :hidden:
    :titlesonly:
 
-   preface/index
-   introduction/index
+   Install CircuitPython <./install/index>
+   Creating Image Bank
+   Drawing a Background
+   Getting Sprite on Screen
