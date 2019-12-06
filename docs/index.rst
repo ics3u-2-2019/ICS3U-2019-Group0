@@ -48,8 +48,8 @@ You will need the following items:
   .. container:: leftside
 
     .. image:: ./images/4200-01.jpg
-      :width: 640 px
-      :height: 480 px
+      :width: 320 px
+      :height: 240 px
       :alt: PyBadge
       :align: left
 
@@ -64,8 +64,8 @@ You will need the following items:
   .. container:: leftside
 
     .. image:: ./images/4148-00.jpg
-      :width: 640 px
-      :height: 480 px
+      :width: 320 px
+      :height: 240 px
       :alt: USB Cable
       :align: left
 
