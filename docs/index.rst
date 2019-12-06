@@ -116,7 +116,6 @@ You might also want:
 |
 |
 |
-|
 
 .. container:: twocol
 
