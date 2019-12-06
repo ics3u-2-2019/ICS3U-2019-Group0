@@ -44,7 +44,7 @@ Parts
 You will need the following items:
 
 +-----------+-------+
-| 1         |    a  |
+| .. image:: ./images/4200-01.jpg|    a  |
 +----------+--------+
 |2          | b     |
 +-----------+-------+
