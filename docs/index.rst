@@ -65,7 +65,11 @@ You will need the following items:
     
     PRODUCT ID: 4200
 
-
+|
+|
+|
+|
+|
 
 .. container:: twocol
 
