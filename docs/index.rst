@@ -152,7 +152,7 @@ You might also want:
 
   .. container:: leftside
 
-    .. image:: ./images/3923-04.jpg
+    .. image:: ./images/printed_case.png
       :width: 320 px
       :height: 240 px
       :alt: USB Cable
