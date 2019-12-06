@@ -30,10 +30,9 @@ Space Aliens - CircuitPython Game
 
 .. raw:: html
 
-  <video width="320" height="240" controls>
-    <source src="./images/space_aliens.mov" type="video/mov">
-    Your browser does not support the video tag.
-  </video>
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="100%" height="350" src="https://www.youtube.com/embed/PpzAbdmxzPU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
 
 .. image:: /images/ComputerBasedProblemSolving.png
    :alt: Computer Based Problem Solving
