@@ -49,6 +49,22 @@ You will need the following items:
    :alt: PyBadge
    :align: left
 
+.. container:: twocol
+
+   .. container:: leftside
+
+    .. image:: ../images/4200-01.jpg
+      :width: 640 px
+      :height: 480 px
+      :alt: PyBadge
+      :align: left
+
+   .. container:: rightside
+
+    Adafruit PyBadge for MakeCode Arcade, CircuitPython or Arduino
+    
+    PRODUCT ID: 4200
+
 
 - PyBadge
 - Micro USB Cable
