@@ -44,6 +44,6 @@ The stage library makes it easy to make classic video games, with helper librari
    :titlesonly:
 
    Install CircuitPython <./install/index>
-   Creating Image Bank
-   Drawing a Background
-   Getting Sprite on Screen
+   Creating Image Bank <./image_bank/index>
+   Drawing a Background <./background/index>
+   Getting Sprite on Screen <./sprites/index>
