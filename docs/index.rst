@@ -53,7 +53,7 @@ You will need the following items:
 
    .. container:: leftside
 
-    .. image:: ../images/4200-01.jpg
+    .. image:: ./images/4200-01.jpg
       :width: 640 px
       :height: 480 px
       :alt: PyBadge
