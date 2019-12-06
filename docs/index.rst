@@ -34,9 +34,9 @@ Space Aliens - CircuitPython Game
     <iframe width="560" height="315" src="https://www.youtube.com/embed/PpzAbdmxzPU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
 
-In this project we will be making an old school style video game for the PyBadge. We will be using CircuitPython with the stage library, to create a Space Invaders like game.
+In this project we will be making an old school style video game for the `Adafruit PyBadge <https://www.adafruit.com/product/4200>`_. We will be using `CircuitPython <https://circuitpython.org>`_ and the `stage library <https://learn.adafruit.com/circuitpython-stage-game-library>`_ to create a `Space Invaders <https://en.wikipedia.org/wiki/Space_Invaders>`_ like game.  
 
-The stage library makes it easy to make classic video games, with access to backgrounds, sound, sprites and collision detection. The game will also work on other variants of hareware that runs CircuitPython and has a screen, like the PyGames and the PyEdge Badge.
+The stage library makes it easy to make classic video games, with helper libraries for sound, sprites and collision detection. The game will also work on other variants of PyBadge hardware, like the `PyGamer <https://www.adafruit.com/product/4242>`_ and the `EdgeBadge <https://www.adafruit.com/product/4400>`_.
 
 .. toctree::
    :maxdepth: 2
