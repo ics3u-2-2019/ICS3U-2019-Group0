@@ -43,6 +43,12 @@ Parts
 
 You will need the following items:
 
++--------------------------------+-------+
+| .. image:: ./images/4200-01.jpg| `Adafruit PyBadge for MakeCode Arcade, CircuitPython or Arduino <https://www.adafruit.com/product/4200>`_  |
++--------------------------------+-------+
+| .. image:: ./images/4200-01.jpg| `Adafruit PyBadge for MakeCode Arcade, CircuitPython or Arduino <https://www.adafruit.com/product/4200>`_  |
++--------------------------------+-------+
+
 .. container:: twocol
 
   .. container:: leftside
@@ -59,7 +65,7 @@ You will need the following items:
     
     PRODUCT ID: 4200
 
-------------
+
 
 .. container:: twocol
 
