@@ -91,7 +91,6 @@ You will need the following items:
 |
 |
 |
-|
 
 You might also want:
 
