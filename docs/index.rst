@@ -41,7 +41,15 @@ The stage library makes it easy to make classic video games, with helper librari
 Parts
 =====
 
-You will need the following items.
+You will need the following items:
+
+.. image:: ../images/4200-01.jpg
+   :width: 640 px
+   :height: 480 px
+   :alt: PyBadge
+   :align: left
+
+
 - PyBadge
 - Micro USB Cable
 
