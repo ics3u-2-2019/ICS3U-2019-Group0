@@ -24,9 +24,9 @@
         }
     </style>
 
-==============================
-Computer Based Problem Solving
-==============================
+============
+Space Aliens
+============
 
 .. image:: /images/ComputerBasedProblemSolving.png
    :alt: Computer Based Problem Solving
