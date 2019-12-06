@@ -65,7 +65,6 @@ You will need the following items:
 |
 |
 |
-|
 
 .. container:: twocol
 
@@ -83,10 +82,76 @@ You will need the following items:
     
     PRODUCT ID: 4148
 
-You might also want
-- Lipo Battery
-- Speaker
-- 3D Printed Case
+    So you can move your CircuitPython code onto the PyBadge.
+
+You might also want:
+
+.. container:: twocol
+
+  .. container:: leftside
+
+    .. image:: ./images/3898-00.jpg
+      :width: 320 px
+      :height: 240 px
+      :alt: Lipo Battery
+      :align: left
+
+  .. container:: rightside
+
+    `Lithium Ion Polymer Battery Ideal For Feathers - 3.7V 400mAh <https://www.adafruit.com/product/3898>`_
+    
+    PRODUCT ID: 3898
+
+    So that you can play the game without having it attached to a computer.
+
+|
+|
+|
+|
+|
+|
+
+.. container:: twocol
+
+  .. container:: leftside
+
+    .. image:: ./images/3923-04.jpg
+      :width: 320 px
+      :height: 240 px
+      :alt: USB Cable
+      :align: left
+
+  .. container:: rightside
+
+    `Mini Oval Speaker - 8 Ohm 1 Watt <https://www.adafruit.com/product/4148>`_
+    
+    PRODUCT ID: 3923
+    Mini Oval Speaker - 8 Ohm 1 Watt
+
+    If you want lots of sound. Be warned, the built in speaker is actually pretty loud.
+
+|
+|
+|
+|
+|
+|
+
+.. container:: twocol
+
+  .. container:: leftside
+
+    .. image:: ./images/3923-04.jpg
+      :width: 320 px
+      :height: 240 px
+      :alt: USB Cable
+      :align: left
+
+  .. container:: rightside
+
+    `3D Printed Case <https://www.tinkercad.com/things/fHOWOY88j9A?utm_source=externalsite&utm_medium=embedver1&utm_campaign=embed>`_
+
+    I did not create this case. I `altered Adafruit's design <https://learn.adafruit.com/pybadge-case/>`_. One of the screw posts was hitting the built in speaker and the case was not closing properly. I also added a peice of plastic over the display ribbon cable, to keep it better protected. You will need 4 x 3M screws to hold the case together.
 
 
 .. toctree::
