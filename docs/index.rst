@@ -51,7 +51,7 @@ You will need the following items:
 
 .. container:: twocol
 
-   .. container:: leftside
+  .. container:: leftside
 
     .. image:: ./images/4200-01.jpg
       :width: 640 px
@@ -59,11 +59,27 @@ You will need the following items:
       :alt: PyBadge
       :align: left
 
-   .. container:: rightside
+  .. container:: rightside
 
-    Adafruit PyBadge for MakeCode Arcade, CircuitPython or Arduino
+    `Adafruit PyBadge for MakeCode Arcade, CircuitPython or Arduino <https://www.adafruit.com/product/4200>`_
     
     PRODUCT ID: 4200
+
+.. container:: twocol
+
+  .. container:: leftside
+
+    .. image:: ./images/4148-00.jpg
+      :width: 640 px
+      :height: 480 px
+      :alt: USB Cable
+      :align: left
+
+  .. container:: rightside
+
+    Pink and Purple Braided USB A to Micro B Cable - 2 meter long
+    
+    PRODUCT ID: 4148
 
 
 - PyBadge
