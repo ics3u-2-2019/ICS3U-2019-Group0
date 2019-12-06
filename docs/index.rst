@@ -85,7 +85,6 @@ You will need the following items:
 
     So you can move your CircuitPython code onto the PyBadge.
 
-
 |
 |
 |
@@ -120,7 +119,6 @@ You might also want:
 |
 |
 |
-|
 
 .. container:: twocol
 
@@ -140,7 +138,6 @@ You might also want:
 
     If you want lots of sound. Be warned, the built in speaker is actually pretty loud.
 
-|
 |
 |
 |
