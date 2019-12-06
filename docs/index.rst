@@ -164,8 +164,7 @@ You might also want:
    :titlesonly:
 
    Install CircuitPython <./install/index>
-   Install Mu <./mu/index>
-   Needed Hardware <./needed_hardware/index>
+   Install Mu IDE <./mu/index>
    Creating Image Bank <./image_bank/index>
    Drawing a Background <./background/index>
    Getting Sprite on Screen <./sprites/index>
