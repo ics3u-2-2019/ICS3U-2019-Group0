@@ -24,9 +24,9 @@
         }
     </style>
 
-============
-Space Aliens
-============
+=================================
+Space Aliens - CircuitPython Game
+=================================
 
 .. image:: /images/ComputerBasedProblemSolving.png
    :alt: Computer Based Problem Solving

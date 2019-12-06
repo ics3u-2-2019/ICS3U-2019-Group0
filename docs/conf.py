@@ -216,8 +216,8 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'toga.tex', u'Computer Based Problem Solving',
-   u'Patrick Coxall', 'manual'),
+  ('index', 'toga.tex', u'Space Aliens - CircuitPython Game',
+   u'Mr. Coxall', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -246,8 +246,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'CBPS', u'Computer Based Problem Solving',
-     [u'Patrick Coxall'], 1)
+    ('index', 'CBPS', u'Space Aliens - CircuitPython Game',
+     [u'Mr. Coxall'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -260,8 +260,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'CBPS', u'Computer Based Problem Solving',
-   u'Patrick Coxall', 'CBPS', 'Computer Based Problem Solving Textbook.',
+  ('index', 'CBPS', u'Space Aliens - CircuitPython Game',
+   u'Mr. Coxall', 'Space Aliens', 'Space Aliens - CircuitPython Game',
    'Miscellaneous'),
 ]
 
