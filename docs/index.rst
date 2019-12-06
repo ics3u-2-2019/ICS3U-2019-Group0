@@ -43,12 +43,6 @@ Parts
 
 You will need the following items:
 
-.. image:: ../images/4200-01.jpg
-   :width: 640 px
-   :height: 480 px
-   :alt: PyBadge
-   :align: left
-
 .. container:: twocol
 
   .. container:: leftside
@@ -77,13 +71,9 @@ You will need the following items:
 
   .. container:: rightside
 
-    Pink and Purple Braided USB A to Micro B Cable - 2 meter long
+    `Pink and Purple Braided USB A to Micro B Cable - 2 meter long <https://www.adafruit.com/product/4148>`_
     
     PRODUCT ID: 4148
-
-
-- PyBadge
-- Micro USB Cable
 
 You might also want
 - Lipo Battery
