@@ -27,10 +27,9 @@ Yes, you know that first program you should always run when starting a new codin
 
 .. code-block:: python
 	:linenos:
-	:dedent: 4
 	:caption: code.py
 
-	# the Hello, World! program
+	# Hello, World! program
 	print("Hello, World!")
 
 As soon as you save the file onto the PyBadge, the screen should flash and you should see the following:
@@ -44,7 +43,6 @@ Although this code does work just as is, it is always nice to ensure we are foll
 
 .. code-block:: python
 	:linenos:
-	:dedent: 4
 	:caption: code.py
 
 	#!/usr/bin/env python3
