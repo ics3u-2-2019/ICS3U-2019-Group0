@@ -25,8 +25,56 @@ Hello, World!
 
 Yes, you know that first program you should always run when starting a new coding adventure! Once you have access to your IDE and you have CircuitPython loaded, you should ensure everything is working before you move on. To do this we will do the traditional "Hello, World!" program. By default CircuitPython looks for a file called code.py in the root directory of the PyBadge to start up. You will place the following code in the code.py file:
 
+.. code-block:: Python
+
+	#!/usr/bin/env python3
+
+	# Created by : Mr. Coxall
+	# Created on : October 2019
+	# This program prints out your name, using default function parameters
+
+
+	def full_name(first_name, last_name, middle_name = None):
+	    # return the full formal name
+
+	    full_name = first_name
+	    if middle_name != None:
+	        full_name = full_name + " " + middle_name[0]
+	    full_name = full_name + " " + last_name
+
+	    return full_name
+	  
+	def main():
+	    # gets a users name and prints out their formal name
+	    middle_name = None
+	    
+	    first_name = input("Enter your first name: ")
+	    question = input("Do you have a middle name? (y/n): ")
+	    if question.upper() == "Y" or question.upper() == "YES":
+	        middle_name = input("Enter your middle name: ")
+	    last_name = input("Enter your last name: ")
+
+	    if middle_name != None:
+	        name = full_name(first_name, last_name, middle_name)
+	    else:
+	        name = full_name(first_name, last_name)
+
+	    print(name)
+
+	if __name__ == "__main__":
+	    main()
+
 .. code-block:: python
+	:linenos:
 
 	# the Hello, World! program
 	print("Hello, World!")
 
+As soon as you save the file onto the PyBadge, the screen should flash and you should see the following:
+
+.. image:: ./hello_world.png
+   :width: 480 px
+   :alt: Hello, World!
+   :align: center
+
+Congradulations, we are ready to start.
