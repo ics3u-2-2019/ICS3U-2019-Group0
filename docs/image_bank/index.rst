@@ -1,5 +1,3 @@
-.. _image_bank:
-
 ***********
 Image Banks
 ***********
