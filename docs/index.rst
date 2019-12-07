@@ -127,7 +127,7 @@ You might also want:
 
     `3D Printed Case <https://www.tinkercad.com/things/fHOWOY88j9A?utm_source=externalsite&utm_medium=embedver1&utm_campaign=embed>`_
 
-    I did not create this case. I `altered Adafruit's design <https://learn.adafruit.com/pybadge-case/>`_. One of the screw posts was hitting the built in speaker and the case was not closing properly. I also added a peice of plastic over the display ribbon cable, to keep it better protected. You will need 4 x 3M screws to hold the case together.
+    I did not create this case. I `altered Adafruit's design <https://learn.adafruit.com/pybadge-case/>`_. One of the screw posts was hitting the built in speaker and the case was not closing properly. I also added a piece of plastic over the display ribbon cable, to keep it better protected. You will need 4 x 3M screws to hold the case together.
 
 .. toctree::
   :maxdepth: 1
