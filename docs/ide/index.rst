@@ -18,4 +18,15 @@ If you are working on a Chromebook, the easiest way to start coding is to just u
 
 If you are using a non-Chromebook computer, your best beat for an IDE is Mu. You can get it for Windows, Mac, Raspberry Pi and Linux. It works seamlessly with CircuitPython and the serial consile will give you much needed debugging information. You can download Mu `here <https://codewith.mu/en/download>`_.
 
-Since with CircuitPython devices you are just writing Python files to a USB drive, you are more than welcome to use any IDE that you are familar using. 
+Since with CircuitPython devices you are just writing Python files to a USB drive, you are more than welcome to use any IDE that you are familar using.
+
+Hello, World!
+-------------
+
+Yes, you know that first program you should always run when starting a new coding adventure! Once you have access to your IDE and you have CircuitPython loaded, you should ensure everything is working before you move on. To do this we will do the traditional "Hello, World!" program. By default CircuitPython looks for a file called code.py in the root directory of the PyBadge to start up. You will place the following code in the code.py file:
+
+.. code-block:: python
+
+	# the Hello, World! program
+	print("Hello, World!")
+
