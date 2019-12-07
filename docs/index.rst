@@ -159,7 +159,7 @@ You might also want:
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :hidden:
    :titlesonly:
 
