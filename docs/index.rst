@@ -157,15 +157,14 @@ You might also want:
 
     I did not create this case. I `altered Adafruit's design <https://learn.adafruit.com/pybadge-case/>`_. One of the screw posts was hitting the built in speaker and the case was not closing properly. I also added a peice of plastic over the display ribbon cable, to keep it better protected. You will need 4 x 3M screws to hold the case together.
 
-
 .. toctree::
-   :maxdepth: 2
-   :hidden:
-   :titlesonly:
+  :maxdepth: 2
+  :hidden:
+  :titlesonly:
 
-   self
-   Install CircuitPython <./install/index>
-   Install Mu IDE <./mu/index>
-   Creating Image Bank <./image_bank/index>
-   Drawing a Background <./background/index>
-   Getting Sprite on Screen <./sprites/index>
+  self
+  install/index
+  mu/index
+  image_bank/index
+  background/index
+  sprites/index
