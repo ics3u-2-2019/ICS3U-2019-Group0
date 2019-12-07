@@ -1,7 +1,4 @@
-=================================
-Space Aliens - CircuitPython Game
-=================================
-
+====
 Home
 ====
 
@@ -16,7 +13,7 @@ In this project we will be making an old school style video game for the `Adafru
 The stage library makes it easy to make classic video games, with helper libraries for sound, sprites and collision detection. The game will also work on other variants of PyBadge hardware, like the `PyGamer <https://www.adafruit.com/product/4242>`_ and the `EdgeBadge <https://www.adafruit.com/product/4400>`_.
 
 Parts
------
+~~~~~
 
 You will need the following items:
 
