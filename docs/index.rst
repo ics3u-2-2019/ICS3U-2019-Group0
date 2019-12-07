@@ -159,8 +159,7 @@ You might also want:
 
 
 .. toctree::
-   :maxdepth: 1
-   :hidden:
+   :maxdepth: 2
    :titlesonly:
 
    Install CircuitPython <./install/index>
