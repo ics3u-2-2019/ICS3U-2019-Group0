@@ -66,6 +66,8 @@ Yes, you know that first program you should always run when starting a new codin
 
 .. code-block:: python
 	:linenos:
+	:dedent: 4
+	:caption: code.py
 
 	# the Hello, World! program
 	print("Hello, World!")
