@@ -5,14 +5,14 @@ Your IDE
 One of the great things about CircuitPython hardware is that it just automatically shows up as a USB drive when you attach it to your computer. This means that you can access and save your code using any text editor. This is particularly helpful in schools, where computers are likely to be locked down so students can not load anything. Also students might be using Chromebooks, where only "authorized" Chrome extensions can be loaded.
 
 .. image:: ./chrome_text_ide.png
-   :width: 320 px
+   :width: 480 px
    :alt: Chromebook Text Editor
    :align: center
 
 If you are working on a Chromebook, the easiest way to start coding is to just use the built in `Text app <https://chrome.google.com/webstore/detail/text/mmfbcljfglbokpmkimbfghdkjmjhdgbg?hl=en>`_. As soon as you open or save a file with a *.py extension, it will know it is Python code and automatically start syntax highlighting.  
 
 .. image:: ./circuitpython_mu-front-page.png
-   :width: 320 px
+   :width: 480 px
    :alt: Mu Editor
    :align: center
 

@@ -3,7 +3,7 @@ Install CircuitPython
 =====================
 
 .. image:: ./adafruit_products_PyBadge_Downloaded_UF2.png
-   :width: 320 px
+   :width: 480 px
    :alt: PyBadge UF2
    :align: center
 
