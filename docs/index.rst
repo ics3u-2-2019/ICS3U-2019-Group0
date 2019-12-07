@@ -160,8 +160,10 @@ You might also want:
 
 .. toctree::
    :maxdepth: 2
+   :hidden:
    :titlesonly:
 
+   Parts <./index>
    Install CircuitPython <./install/index>
    Install Mu IDE <./mu/index>
    Creating Image Bank <./image_bank/index>
