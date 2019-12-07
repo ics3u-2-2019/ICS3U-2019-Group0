@@ -19,7 +19,7 @@ If you are working on a Chromebook, the easiest way to start coding is to just u
 
     Chromebook Text app
 
-If you are using a non-Chromebook computer, your best beat for an IDE is Mu. You can get it for Windows, Mac, Raspberry Pi and Linux. It works seamlessly with CircuitPython and the serial consile will give you much needed debugging information. You can download Mu `here <https://codewith.mu/en/download>`_.
+If you are using a non-Chromebook computer, your best beat for an IDE is `Mu <https://codewith.mu>`_. You can get it for Windows, Mac, Raspberry Pi and Linux. It works seamlessly with CircuitPython and the serial consile will give you much needed debugging information. You can download Mu `here <https://codewith.mu/en/download>`_.
 
 .. image:: ./circuitpython_mu-front-page.png
    :width: 480 px
