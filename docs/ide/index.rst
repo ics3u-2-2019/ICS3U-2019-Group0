@@ -41,7 +41,6 @@ Although this code does work just as is, it is always nice to ensure we are foll
 
 .. code-block:: python
 	:linenos:
-	:caption: code.py
 
 	#!/usr/bin/env python3
 
@@ -56,5 +55,6 @@ Although this code does work just as is, it is always nice to ensure we are foll
 
 	if __name__ == "__main__":
 	    main()
+	
 
 Congradulations, we are ready to start.
