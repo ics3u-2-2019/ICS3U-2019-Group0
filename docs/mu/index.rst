@@ -2,4 +2,8 @@
 Mu Editor
 =========
 
-Problems have been around for as long as people have been around. The process of solving a problem is not something new. Using a computer to aid in solving a problem is new. Modern electronic computers have only been around since the Second World War (1939-1945), which might seem like a long time ago to you but in the history of the human race it is a very short time. The purpose of this book is to help you learn to structure your problem solving method, so that you can consistently develop a verifiable solution that will solve a problem and in the process, use the computer to help you more easily and quickly solve that problem.
+One of the great things about CircuitPython hardware is that it just automatically shows up as a USB drive when you attach it to your computer. This means that you can access and save your code using any text editor. This is particularly helpful in schools, where computers are likely to be locked down so students can not load any drivers. Also students might be using Chromebooks, where only "authorized" Chrome extensions can be loaded.
+
+If you are working on a Chromebook, the easiest way to start coding is to just use the built in `Text app <https://chrome.google.com/webstore/detail/text/mmfbcljfglbokpmkimbfghdkjmjhdgbg?hl=en>`_. As soon as you open or save a file with a *.py extension, it will know it is Python code and automatically start syntax highlighting.  
+
+If you are using a non-Chromebook computer, your best beat for an IDE is Mu. You can get it for Windows, Mac, Raspberry Pi and Linux. It works seamlessly with CircuitPython and the serial consile will give you much needed debugging information. You can download Mu `here <https://codewith.mu/en/download>`_.
