@@ -25,45 +25,6 @@ Hello, World!
 
 Yes, you know that first program you should always run when starting a new coding adventure! Once you have access to your IDE and you have CircuitPython loaded, you should ensure everything is working before you move on. To do this we will do the traditional "Hello, World!" program. By default CircuitPython looks for a file called code.py in the root directory of the PyBadge to start up. You will place the following code in the code.py file:
 
-.. code-block:: Python
-
-	#!/usr/bin/env python3
-
-	# Created by : Mr. Coxall
-	# Created on : October 2019
-	# This program prints out your name, using default function parameters
-
-
-	def full_name(first_name, last_name, middle_name = None):
-	    # return the full formal name
-
-	    full_name = first_name
-	    if middle_name != None:
-	        full_name = full_name + " " + middle_name[0]
-	    full_name = full_name + " " + last_name
-
-	    return full_name
-	  
-	def main():
-	    # gets a users name and prints out their formal name
-	    middle_name = None
-	    
-	    first_name = input("Enter your first name: ")
-	    question = input("Do you have a middle name? (y/n): ")
-	    if question.upper() == "Y" or question.upper() == "YES":
-	        middle_name = input("Enter your middle name: ")
-	    last_name = input("Enter your last name: ")
-
-	    if middle_name != None:
-	        name = full_name(first_name, last_name, middle_name)
-	    else:
-	        name = full_name(first_name, last_name)
-
-	    print(name)
-
-	if __name__ == "__main__":
-	    main()
-
 .. code-block:: python
 	:linenos:
 	:dedent: 4
@@ -78,5 +39,26 @@ As soon as you save the file onto the PyBadge, the screen should flash and you s
    :width: 480 px
    :alt: Hello, World!
    :align: center
+
+Although this code does work just as is, it is always nice to ensure we are following proper coding conventions, including style and comments. Here is a better version of Hello, World! You will notice that I have a call to a main() function. This is common in Python code but not normally seen in CircuitPython. I am including it because by breaking the code into different functions to match different scenes eventually will be really helpful.
+
+.. code-block:: python
+	:linenos:
+	:dedent: 4
+	:caption: code.py
+
+	#!/usr/bin/env python3
+
+	# Created by : Mr. Coxall
+	# Created on : January 2020
+	# This program prints out Hello, World! onto a PyBadge
+
+	  
+	def main():
+	    # this function prints out Hello, World! onto a PyBadge
+
+
+	if __name__ == "__main__":
+	    main()
 
 Congradulations, we are ready to start.
