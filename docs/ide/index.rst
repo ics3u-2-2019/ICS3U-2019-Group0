@@ -57,11 +57,11 @@ Although this code does work just as is, it is always nice to ensure we are foll
 
 	# Created by : Mr. Coxall
 	# Created on : January 2020
-	# This program prints out Hello, World! onto a PyBadge
+	# This program prints out Hello, World! onto the PyBadge
 
 	  
 	def main():
-	    # this function prints out Hello, World! onto a PyBadge
+	    # this function prints out Hello, World! onto the PyBadge
 	    print("Hello, World!")
 
 
