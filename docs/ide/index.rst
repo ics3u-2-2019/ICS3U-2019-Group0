@@ -15,7 +15,6 @@ If you are working on a Chromebook, the easiest way to start coding is to just u
     :width: 480 px
     :align: center
     :alt: Chromebook Text Editor
-    :figclass: align-left
 
     Chromebook Text app
 
