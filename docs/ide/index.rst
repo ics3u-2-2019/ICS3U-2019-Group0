@@ -9,6 +9,8 @@ One of the great things about CircuitPython hardware is that it just automatical
    :alt: Chromebook Text Editor
    :align: center
 
+If you are working on a Chromebook, the easiest way to start coding is to just use the built in `Text app <https://chrome.google.com/webstore/detail/text/mmfbcljfglbokpmkimbfghdkjmjhdgbg?hl=en>`_. As soon as you open or save a file with a *.py extension, it will know it is Python code and automatically start syntax highlighting.
+
 .. figure:: ./chrome_text_ide.png
     :width: 480 px
     :align: center
@@ -17,14 +19,12 @@ One of the great things about CircuitPython hardware is that it just automatical
 
     Chromebook Text app
 
-If you are working on a Chromebook, the easiest way to start coding is to just use the built in `Text app <https://chrome.google.com/webstore/detail/text/mmfbcljfglbokpmkimbfghdkjmjhdgbg?hl=en>`_. As soon as you open or save a file with a *.py extension, it will know it is Python code and automatically start syntax highlighting.  
+If you are using a non-Chromebook computer, your best beat for an IDE is Mu. You can get it for Windows, Mac, Raspberry Pi and Linux. It works seamlessly with CircuitPython and the serial consile will give you much needed debugging information. You can download Mu `here <https://codewith.mu/en/download>`_.
 
 .. image:: ./circuitpython_mu-front-page.png
    :width: 480 px
    :alt: Mu Editor
    :align: center
-
-If you are using a non-Chromebook computer, your best beat for an IDE is Mu. You can get it for Windows, Mac, Raspberry Pi and Linux. It works seamlessly with CircuitPython and the serial consile will give you much needed debugging information. You can download Mu `here <https://codewith.mu/en/download>`_.
 
 Since with CircuitPython devices you are just writing Python files to a USB drive, you are more than welcome to use any IDE that you are familar using.
 
