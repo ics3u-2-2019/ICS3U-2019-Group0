@@ -163,6 +163,7 @@ You might also want:
    :hidden:
    :titlesonly:
 
+   Home <./index>
    Install CircuitPython <./install/index>
    Install Mu IDE <./mu/index>
    Creating Image Bank <./image_bank/index>
