@@ -7,7 +7,7 @@ Install CircuitPython
    :alt: PyBadge UF2
    :align: center
 
-   Loading CircuitPython UF2 file onto PyBadge
+   Clearing the PyBadge and loading the CircuitPython UF2 file
 
 Before doing anything else, you should delete everything already on your PyBadge and install the latest version of CircuitPython onto it. This ensures you have a clean build with all the latest updates and no leftover files floating araound. Adafruit has an excellent quick start guide `here <https://learn.adafruit.com/adafruit-pybadge/installing-circuitpython>`_ to step you through the process of getting the latest build of CircuitPython onto your PyBadge. Adafruit also have a more detailed comprehensive version of all the steps with complete explinations `here <https://learn.adafruit.com/welcome-to-circuitpython/installing-circuitpython>`_ you can use, if this is your first time loading CircuitPython onto your PyBadge. 
 
