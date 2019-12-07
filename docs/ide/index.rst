@@ -23,11 +23,10 @@ Since with CircuitPython devices you are just writing Python files to a USB driv
 Hello, World!
 -------------
 
-Yes, you know that first program you should always run when starting a new coding adventure, just to ensure everything is running correctly! Once you have access to your IDE and you have CircuitPython loaded, you should make sure everything is working before you move on. To do this we will do the traditional "Hello, World!" program. By default CircuitPython looks for a file called ``code.py`` :file:`code.py` in the root directory of the PyBadge to start up. You will place the following code in the code.py file:
+Yes, you know that first program you should always run when starting a new coding adventure, just to ensure everything is running correctly! Once you have access to your IDE and you have CircuitPython loaded, you should make sure everything is working before you move on. To do this we will do the traditional "Hello, World!" program. By default CircuitPython looks for a file called :file:`code.py` in the root directory of the PyBadge to start up. You will place the following code in the :file:`code.py` file:
 
 .. code-block:: python
 	:linenos:
-	:caption: code.py
 
 	print("Hello, World!")
 
@@ -38,7 +37,7 @@ As soon as you save the file onto the PyBadge, the screen should flash and you s
    :alt: Hello, World!
    :align: center
 
-Although this code does work just as is, it is always nice to ensure we are following proper coding conventions, including style and comments. Here is a better version of Hello, World! You will notice that I have a call to a main() function. This is common in Python code but not normally seen in CircuitPython. I am including it because by breaking the code into different functions to match different scenes eventually will be really helpful.
+Although this code does work just as is, it is always nice to ensure we are following proper coding conventions, including style and comments. Here is a better version of Hello, World! You will notice that I have a call to a ``main()`` function. This is common in Python code but not normally seen in CircuitPython. I am including it because by breaking the code into different functions to match different scenes eventually will be really helpful.
 
 .. code-block:: python
 	:linenos:
