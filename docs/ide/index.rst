@@ -9,6 +9,14 @@ One of the great things about CircuitPython hardware is that it just automatical
    :alt: Chromebook Text Editor
    :align: center
 
+.. figure:: ./chrome_text_ide.png
+    :width: 480 px
+    :align: center
+    :alt: Chromebook Text Editor
+    :figclass: align-left
+
+    Chromebook Text app
+
 If you are working on a Chromebook, the easiest way to start coding is to just use the built in `Text app <https://chrome.google.com/webstore/detail/text/mmfbcljfglbokpmkimbfghdkjmjhdgbg?hl=en>`_. As soon as you open or save a file with a *.py extension, it will know it is Python code and automatically start syntax highlighting.  
 
 .. image:: ./circuitpython_mu-front-page.png
