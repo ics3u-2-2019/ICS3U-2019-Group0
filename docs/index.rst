@@ -138,7 +138,7 @@ You might also want:
 
   self
   install/index
-  mu/index
+  ide/index
   image_bank/index
   background/index
   sprites/index
