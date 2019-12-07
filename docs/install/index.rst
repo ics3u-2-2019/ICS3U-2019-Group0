@@ -2,7 +2,7 @@
 Install CircuitPython
 =====================
 
-.. figure:: ./loading_circuitpython.png
+.. figure:: ./loading_circuitpython.gif
    :width: 480 px
    :alt: PyBadge UF2
    :align: center
