@@ -15,7 +15,7 @@ For sound, the stage library can play back :file:`*.wav` files in PCM 16-bit Mon
 
 If you do not want to get into creating your own assets, other people have already made assets available to use. All the assets for this guide can be found in the GitHub repo here:
 
-- `space alien image bank <https://github.com/MotherTeresaHS/ICS3U-2019-Group0/blob/master/space_aliens.bmp>`_
+- `space aliens image bank <https://github.com/MotherTeresaHS/ICS3U-2019-Group0/blob/master/space_aliens.bmp>`_
 - `coin sound <https://github.com/MotherTeresaHS/ICS3U-2019-Group0/blob/master/coin.wav>`_
 - `pew sound <https://github.com/MotherTeresaHS/ICS3U-2019-Group0/blob/master/pew2.wav>`_
 - `boom sound <https://github.com/MotherTeresaHS/ICS3U-2019-Group0/blob/master/boom.wav>`_
