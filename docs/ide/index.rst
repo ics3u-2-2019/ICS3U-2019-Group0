@@ -29,7 +29,6 @@ Yes, you know that first program you should always run when starting a new codin
 	:linenos:
 	:caption: code.py
 
-	# Hello, World! program
 	print("Hello, World!")
 
 As soon as you save the file onto the PyBadge, the screen should flash and you should see the following:
