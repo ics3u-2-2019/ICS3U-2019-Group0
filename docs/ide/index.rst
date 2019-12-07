@@ -43,6 +43,20 @@ Although this code does work just as is, it is always nice to ensure we are foll
 
 :kbd:`Control-a s`
 
+:py:mod:`package.module` 
+
+:py:func:`pkg.mod.function` 
+
+:py:class:`pkg.mod.Class` 
+
+:py:meth:`pkg.mod.Class.method` 
+
+:py:attr:`pkg.mod.Class.attribute` 
+
+:py:data:`pkg.mod.VARIABLE` 
+
+:py:const:`pkg.mod.CONSTANT` 
+
 .. code-block:: python
 	:linenos:
 
