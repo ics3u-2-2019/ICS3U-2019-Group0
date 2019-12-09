@@ -1,8 +1,8 @@
-.. _menu:
+.. _menu_system:
 
-****
-Menu
-****
+***********
+Menu System
+***********
 
 X
 
