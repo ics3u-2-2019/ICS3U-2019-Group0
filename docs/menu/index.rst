@@ -1,4 +1,4 @@
-.. _menu_system:
+.. _menu:
 
 ***********
 Menu System
