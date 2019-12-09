@@ -1,7 +1,7 @@
-.. _goal-of-this-book:
+.. _background:
 
-Goal of this book
-=================
+Background
+==========
 
 The goal of this book is to make you a “good” programmer. Despite the fact that a normal high school semester courses run for about 90 days, you will not become an expert programmer in just one semester. It has been said that it takes around `10,000 hours <https://en.wikipedia.org/wiki/Outliers_(book)>`_ to really become proficient at anything and programming is no different. By the end of this book you will be very much on your way and have a good foundation in the skills you will need. The important thing to remember is that the point is not to teach you a specific programming language, since programming languages come and go and change over time. This is just like real languages. 
 

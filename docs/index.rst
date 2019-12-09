@@ -130,7 +130,7 @@ You might also want:
     I did not create this case. I `altered Adafruit's design <https://learn.adafruit.com/pybadge-case/>`_. One of the screw posts was hitting the built in speaker and the case was not closing properly. I also added a piece of plastic over the display ribbon cable, to keep it better protected. You will need 4 x 3M screws to hold the case together.
 
 .. toctree::
-  :maxdepth: 1
+  :maxdepth: 2
   :hidden:
   :titlesonly:
 
@@ -138,5 +138,4 @@ You might also want:
   install/index
   ide/index
   image_bank/index
-  background/index
-  sprites/index
+  game/index
