@@ -10,6 +10,6 @@ X
    :maxdepth: 1
    :glob:
 
-   Start Screen <start_screen>
-   Splash Screen <splash_screen>
-   Game Over Screen <game_over_screen>
+   Start Scene <start_scene>
+   Splash Scene <splash_scene>
+   Game Over Scene <game_over_scene>
